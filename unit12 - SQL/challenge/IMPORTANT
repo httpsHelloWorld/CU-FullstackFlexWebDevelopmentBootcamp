@@ -1,0 +1,3 @@
+npm install inquirer@2.8.4,
+npm install MySQL2.
+npm install console.table
