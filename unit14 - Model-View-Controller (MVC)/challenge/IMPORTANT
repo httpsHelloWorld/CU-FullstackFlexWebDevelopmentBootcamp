@@ -1,0 +1,7 @@
+npm install express-handlebars,
+npm install MySQL2,
+npm install Sequelize,
+npm install dotenv,
+npm install bcrypt,
+npm install express-session,
+npm install connect-session-sequelize
